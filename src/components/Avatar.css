@@ -1,0 +1,17 @@
+.avatar-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: blueviolet;
+  width: 50%;
+}
+.react {
+  border: 2px solid red;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.done-button {
+  width: 25%;
+}

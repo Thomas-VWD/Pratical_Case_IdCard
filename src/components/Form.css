@@ -1,0 +1,17 @@
+.form-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(101, 182, 248);
+  width: 50%;
+}
+.input-name,
+.input-team,
+.input-upload {
+  width: 50%;
+}
+.checkbox {
+  display: flex;
+  flex-wrap: wrap;
+}
